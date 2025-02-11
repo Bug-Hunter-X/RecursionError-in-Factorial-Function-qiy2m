@@ -1,0 +1,1 @@
+This repository contains a simple Python program that demonstrates a common error in recursive functions: forgetting to handle the base case properly.  The `factorial.py` file contains the buggy code, which throws a `RecursionError` when called with a negative input. The `factorialSolution.py` file provides a corrected version that handles negative input gracefully.
